@@ -1,0 +1,34 @@
+{
+  "name": "nucleus-angular",
+  "version": "0.2.0",
+  "dependencies": {
+    "nucleus-angular-core": "latest",
+    "nucleus-angular-attribute": "latest",
+    "nucleus-angular-auto-focus": "latest",
+    "nucleus-angular-beat": "latest",
+    "nucleus-angular-data-validation": "latest",
+    "nucleus-angular-dynamic-event": "latest",
+    "nucleus-angular-ellipse": "latest",
+    "nucleus-angular-event": "latest",
+    "nucleus-angular-expander": "latest",
+    "nucleus-angular-extend-text": "latest",
+    "nucleus-angular-form-validators": "latest",
+    "nucleus-angular-grid": "latest",
+    "nucleus-angular-if": "latest",
+    "nucleus-angular-infinite-scroll": "latest",
+    "nucleus-angular-modal": "latest",
+    "nucleus-angular-notify": "latest",
+    "nucleus-angular-prism": "latest",
+    "nucleus-angular-resizable": "latest",
+    "nucleus-angular-rest": "latest",
+    "nucleus-angular-sass-framework": "latest",
+    "nucleus-angular-site-loader": "latest",
+    "nucleus-angular-site-overlay": "latest",
+    "nucleus-angular-store": "latest",
+    "nucleus-angular-tabs": "latest",
+    "nucleus-angular-tooltip": "latest",
+    "nucleus-angular-tree": "latest"
+  },
+  "devDependencies": {
+  }
+}
