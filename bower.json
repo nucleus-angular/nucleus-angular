@@ -1,11 +1,12 @@
 {
   "name": "nucleus-angular",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "dependencies": {
     "nucleus-angular-core": "latest",
     "nucleus-angular-attribute": "latest",
     "nucleus-angular-auto-focus": "latest",
     "nucleus-angular-beat": "latest",
+    "nucleus-angular-button-drop-down": "latest",
     "nucleus-angular-data-validation": "latest",
     "nucleus-angular-dynamic-event": "latest",
     "nucleus-angular-ellipse": "latest",
@@ -21,6 +22,7 @@
     "nucleus-angular-prism": "latest",
     "nucleus-angular-resizable": "latest",
     "nucleus-angular-rest": "latest",
+    "nucleus-angular-single-panel": "latest",
     "nucleus-angular-sass-framework": "latest",
     "nucleus-angular-site-loader": "latest",
     "nucleus-angular-site-overlay": "latest",
