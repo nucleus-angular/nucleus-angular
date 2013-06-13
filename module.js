@@ -18,6 +18,7 @@ angular.module('nag', [
   'nag.prism',
   'nag.resizable',
   'nag.rest',
+  'nag.revealingPanel',
   'nag.singlePanel',
   'nag.siteLoader',
   'nag.siteOverlay',
