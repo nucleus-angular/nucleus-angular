@@ -1,6 +1,6 @@
 {
   "name": "nucleus-angular",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "dependencies": {
     "nucleus-angular-core": "latest",
     "nucleus-angular-attribute": "latest",
@@ -16,7 +16,6 @@
     "nucleus-angular-form-validators": "latest",
     "nucleus-angular-grid": "latest",
     "nucleus-angular-infinite-scroll": "latest",
-    "nucleus-angular-modal": "latest",
     "nucleus-angular-notify": "latest",
     "nucleus-angular-prism": "latest",
     "nucleus-angular-resizable": "latest",
@@ -25,7 +24,6 @@
     "nucleus-angular-single-panel": "latest",
     "nucleus-angular-sass-framework": "latest",
     "nucleus-angular-site-loader": "latest",
-    "nucleus-angular-site-overlay": "latest",
     "nucleus-angular-store": "latest",
     "nucleus-angular-tabs": "latest",
     "nucleus-angular-tooltip": "latest",
