@@ -2,7 +2,6 @@ angular.module('nag', [
   'nag.attribute',
   'nag.autoFocus',
   'nag.beat',
-  'nag.buttonDropDown',
   'nag.core',
   'nag.dataValidation',
   'nag.dynamicEvent',
