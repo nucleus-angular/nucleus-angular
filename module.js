@@ -9,7 +9,7 @@ angular.module('nag', [
   'nag.ellipse',
   'nag.expander',
   'nag.extendText',
-  'nag.validate',
+  'nag.form',
   'nag.grid',
   'nag.infiniteScroll',
   'nag.notify',
