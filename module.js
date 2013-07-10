@@ -13,6 +13,7 @@ angular.module('nag', [
   'nag.grid',
   'nag.infiniteScroll',
   'nag.notify',
+  'nag.preventDoubleClick',
   'nag.prism',
   'nag.resizable',
   'nag.rest',
