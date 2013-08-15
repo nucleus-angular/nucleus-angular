@@ -1,6 +1,6 @@
 {
   "name": "nucleus-angular",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "dependencies": {
     "nucleus-angular-core": "latest",
     "nucleus-angular-attribute": "latest",
@@ -15,6 +15,7 @@
     "nucleus-angular-form": "latest",
     "nucleus-angular-grid": "latest",
     "nucleus-angular-infinite-scroll": "latest",
+    "nucleus-angular-new-window": "latest",
     "nucleus-angular-notify": "latest",
     "nucleus-angular-prevent-double-click": "latest",
     "nucleus-angular-prism": "latest",

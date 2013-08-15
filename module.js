@@ -1,3 +1,4 @@
+//todo: document
 angular.module('nag', [
   'nag.attribute',
   'nag.autoFocus',
@@ -12,6 +13,7 @@ angular.module('nag', [
   'nag.form',
   'nag.grid',
   'nag.infiniteScroll',
+  'nag.newWindow',
   'nag.notify',
   'nag.preventDoubleClick',
   'nag.prism',
