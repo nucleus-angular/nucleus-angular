@@ -1,4 +1,8 @@
-//todo: document
+/**
+ * Nucleus Angular
+ *
+ * @module nag
+ */
 angular.module('nag', [
   'nag.attribute',
   'nag.autoFocus',
