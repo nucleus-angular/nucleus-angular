@@ -2,10 +2,11 @@
   "name": "nucleus-angular",
   "version": "0.2.9",
   "dependencies": {
-    "nucleus-angular-core": "master",
     "nucleus-angular-attribute": "master",
     "nucleus-angular-auto-focus": "master",
     "nucleus-angular-beat": "master",
+    "nucleus-angular-core": "master",
+    "nucleus-angular-content-player": "master",
     "nucleus-angular-data-validation": "master",
     "nucleus-angular-dynamic-event": "master",
     "nucleus-angular-ellipse": "master",
