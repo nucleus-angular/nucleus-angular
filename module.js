@@ -21,6 +21,7 @@ angular.module('nag', [
   'nag.form',
   'nag.grid',
   'nag.infiniteScroll',
+  'nag.isolateScope',
   'nag.newWindow',
   'nag.notify',
   'nag.preventDoubleClick',
