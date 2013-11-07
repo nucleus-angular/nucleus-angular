@@ -19,6 +19,7 @@ angular.module('nag', [
   'nag.expander',
   'nag.extendText',
   'nag.form',
+  'nag.globals',
   'nag.grid',
   'nag.infiniteScroll',
   'nag.isolateScope',
@@ -34,5 +35,6 @@ angular.module('nag', [
   'nag.store',
   'nag.tabs',
   'nag.tooltip',
-  'nag.tree'
+  'nag.tree',
+  'nag.urlHistory'
 ]);

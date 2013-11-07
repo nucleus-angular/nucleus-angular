@@ -14,6 +14,7 @@
     "nucleus-angular-expander": "master",
     "nucleus-angular-extend-text": "master",
     "nucleus-angular-form": "master",
+    "nucleus-angular-globals": "master",
     "nucleus-angular-grid": "master",
     "nucleus-angular-infinite-scroll": "master",
     "nucleus-angular-isolate-scope": "master",
@@ -30,6 +31,7 @@
     "nucleus-angular-store": "master",
     "nucleus-angular-tabs": "master",
     "nucleus-angular-tooltip": "master",
-    "nucleus-angular-tree": "master"
+    "nucleus-angular-tree": "master",
+    "nucleus-angular-url-history": "master"
   }
 }
