@@ -22,7 +22,6 @@ angular.module('nag', [
   'nag.globals',
   'nag.grid',
   'nag.infiniteScroll',
-  'nag.isolateScope',
   'nag.newWindow',
   'nag.notify',
   'nag.preventDoubleClick',
