@@ -12,7 +12,6 @@ angular.module('nag', [
   'nag.autoFocus',
   'nag.beat',
   'nag.core',
-  'nag.dataValidation',
   'nag.dynamicEvent',
   'nag.event',
   'nag.ellipse',
