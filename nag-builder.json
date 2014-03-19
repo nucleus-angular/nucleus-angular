@@ -1,0 +1,110 @@
+{
+  "name": "Git Name",
+  "email": "git.name@example.com",
+  "repositories": [{
+    "git": "git@github.com:nucleus-angular/attribute.git",
+    "directory": "attribute"
+  }, {
+    "git": "git@github.com:nucleus-angular/auto-focus.git",
+    "directory": "auto-focus",
+    "testCommand": "dalek"
+  }, {
+    "git": "git@github.com:nucleus-angular/beat.git",
+    "directory": "beat",
+    "testCommand": "karma",
+    "testCommandArgs": ["start", "karma/unit-tests.phantom.js"]
+  }, {
+    "git": "git@github.com:nucleus-angular/core.git",
+    "directory": "core",
+    "testCommand": "karma",
+    "testCommandArgs": ["start", "karma/unit-tests.phantom.js"]
+  }, {
+    "git": "git@github.com:nucleus-angular/dynamic-event.git",
+    "directory": "dynamic-event",
+    "testCommand": "dalek"
+  }, {
+    "git": "git@github.com:nucleus-angular/ellipse.git",
+    "directory": "ellipse",
+    "testCommand": "karma",
+    "testCommandArgs": ["start", "karma/unit-tests.phantom.js"]
+  }, {
+    "git": "git@github.com:nucleus-angular/event.git",
+    "directory": "event",
+    "testCommand": "dalek"
+  }, {
+    "git": "git@github.com:nucleus-angular/expander.git",
+    "directory": "expander",
+    "testCommand": "dalek"
+  }, {
+    "git": "git@github.com:nucleus-angular/extend-text.git",
+    "directory": "extend-text",
+    "testCommand": "dalek"
+  }, {
+    "git": "git@github.com:nucleus-angular/form.git",
+    "directory": "form",
+    "testCommand": "dalek"
+  }, {
+    "git": "git@github.com:nucleus-angular/globals.git",
+    "directory": "globals",
+    "testCommand": "karma",
+    "testCommandArgs": ["start", "karma/unit-tests.phantom.js"]
+  }, {
+    "git": "git@github.com:nucleus-angular/grid.git",
+    "directory": "grid",
+    "testCommand": "dalek"
+  }, {
+    "git": "git@github.com:nucleus-angular/infinite-scroll.git",
+    "directory": "infinite-scroll",
+    "testCommand": "dalek"
+  }, {
+    "git": "git@github.com:nucleus-angular/new-window.git",
+    "directory": "new-window",
+    "testCommand": "dalek"
+  }, {
+    "git": "git@github.com:nucleus-angular/prevent-double-click.git",
+    "directory": "prevent-double-click",
+    "testCommand": "dalek"
+  }, {
+    "git": "git@github.com:nucleus-angular/resizable.git",
+    "directory": "resizable"
+  }, {
+    "git": "git@github.com:nucleus-angular/rest.git",
+    "directory": "rest",
+    "testCommand": "karma",
+    "testCommandArgs": ["start", "karma/unit-tests.phantom.js"]
+  }, {
+    "git": "git@github.com:nucleus-angular/revealing-panel.git",
+    "directory": "revealing-panel",
+    "testCommand": "dalek"
+  }, {
+    "git": "git@github.com:nucleus-angular/sass-framework.git",
+    "directory": "sass-framework"
+  }, {
+    "git": "git@github.com:nucleus-angular/single-panel.git",
+    "directory": "single-panel",
+    "testCommand": "dalek"
+  }, {
+    "git": "git@github.com:nucleus-angular/site-loader.git",
+    "directory": "site-loader",
+    "testCommand": "dalek"
+  }, {
+    "git": "git@github.com:nucleus-angular/store.git",
+    "directory": "store",
+    "testCommand": "karma",
+    "testCommandArgs": ["start", "karma/unit-tests.phantom.js"]
+  }, {
+    "git": "git@github.com:nucleus-angular/tabs.git",
+    "directory": "tabs",
+    "testCommand": "dalek"
+  }, {
+    "git": "git@github.com:nucleus-angular/tooltip.git",
+    "directory": "tooltip"
+  }, {
+    "git": "git@github.com:nucleus-angular/tree.git",
+    "directory": "tree",
+    "testCommand": "dalek"
+  }, {
+    "git": "git@github.com:nucleus-angular/url-history.git",
+    "directory": "url-history"
+  }]
+}
