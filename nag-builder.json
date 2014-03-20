@@ -1,6 +1,4 @@
 {
-  "name": "Git Name",
-  "email": "git.name@example.com",
   "repositories": [{
     "git": "git@github.com:nucleus-angular/attribute.git",
     "directory": "attribute"
