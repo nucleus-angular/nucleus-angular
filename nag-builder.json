@@ -1,7 +1,8 @@
 {
   "repositories": [{
     "git": "git@github.com:nucleus-angular/attribute.git",
-    "directory": "attribute"
+    "directory": "attribute",
+    "testCommand": "dalek"
   }, {
     "git": "git@github.com:nucleus-angular/auto-focus.git",
     "directory": "auto-focus",
@@ -59,8 +60,19 @@
     "directory": "new-window",
     "testCommand": "dalek"
   }, {
+    "git": "git@github.com:nucleus-angular/notify.git",
+    "directory": "notify",
+    "testCommand": "dalek"
+  }, {
+    "git": "git@github.com:nucleus-angular/nucleus-angular.git",
+    "directory": "nucleus-angular"
+  }, {
     "git": "git@github.com:nucleus-angular/prevent-double-click.git",
     "directory": "prevent-double-click",
+    "testCommand": "dalek"
+  }, {
+    "git": "git@github.com:nucleus-angular/prism.git",
+    "directory": "prism",
     "testCommand": "dalek"
   }, {
     "git": "git@github.com:nucleus-angular/resizable.git",
