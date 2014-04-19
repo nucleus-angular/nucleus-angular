@@ -1,10 +1,8 @@
 # Change Log
 
-Each change log are assumed to be accompanied by associated unit test and documentation updates.
-
 ## master
 
-- added search query component
+- added search query component (and removed it since it will initially be part of the extend text component)
 
 ## 0.5.0
 

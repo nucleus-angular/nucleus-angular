@@ -28,7 +28,6 @@ angular.module('nag', [
   'nag.resizable',
   'nag.rest',
   'nag.revealingPanel',
-  'nag.searchQuery',
   'nag.singlePanel',
   'nag.siteLoader',
   'nag.store',
