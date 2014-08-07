@@ -21,7 +21,6 @@ angular.module('nag', [
   'nag.globals',
   'nag.grid',
   'nag.infiniteScroll',
-  'nag.iconic',
   'nag.newWindow',
   'nag.notify',
   'nag.preventDoubleClick',
@@ -32,6 +31,8 @@ angular.module('nag', [
   'nag.singlePanel',
   'nag.siteLoader',
   'nag.store',
+  //TODO: add to builder configuration
+  'nag.svg',
   'nag.tabs',
   'nag.tooltip',
   'nag.tree',
