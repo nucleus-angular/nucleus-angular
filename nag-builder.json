@@ -48,10 +48,6 @@
     "testCommand": "karma",
     "testCommandArgs": ["start", "karma/unit-tests.phantom.js"]
   }, {
-    "git": "git@github.com:nucleus-angular/infinite-scroll.git",
-    "directory": "infinite-scroll",
-    "testCommand": "dalek"
-  }, {
     "git": "git@github.com:nucleus-angular/new-window.git",
     "directory": "new-window",
     "testCommand": "dalek"
@@ -70,9 +66,6 @@
     "git": "git@github.com:nucleus-angular/prism.git",
     "directory": "prism",
     "testCommand": "dalek"
-  }, {
-    "git": "git@github.com:nucleus-angular/resizable.git",
-    "directory": "resizable"
   }, {
     "git": "git@github.com:nucleus-angular/rest.git",
     "directory": "rest",
