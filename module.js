@@ -19,7 +19,6 @@ angular.module('nag', [
   'nag.extendText',
   'nag.form',
   'nag.globals',
-  'nag.grid',
   'nag.infiniteScroll',
   'nag.newWindow',
   'nag.notify',

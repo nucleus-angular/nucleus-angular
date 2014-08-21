@@ -48,10 +48,6 @@
     "testCommand": "karma",
     "testCommandArgs": ["start", "karma/unit-tests.phantom.js"]
   }, {
-    "git": "git@github.com:nucleus-angular/grid.git",
-    "directory": "grid",
-    "testCommand": "dalek"
-  }, {
     "git": "git@github.com:nucleus-angular/infinite-scroll.git",
     "directory": "infinite-scroll",
     "testCommand": "dalek"
