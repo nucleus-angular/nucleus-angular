@@ -87,6 +87,9 @@
     "directory": "site-loader",
     "testCommand": "dalek"
   }, {
+    "git": "git@github.com:nucleus-angular/svg.git",
+    "directory": "svg"
+  }, {
     "git": "git@github.com:nucleus-angular/store.git",
     "directory": "store",
     "testCommand": "karma",
