@@ -1,6 +1,6 @@
 # Change Log
 
-## master
+## 0.6.0
 
 - added .editorconfig file
 - added iconic component
