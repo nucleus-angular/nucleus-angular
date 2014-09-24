@@ -9,3 +9,4 @@ While I am sure a lot of the components in this collection have other implementa
 
 - Infinite Scrolling: [ngInfiniteScroll](http://binarymuse.github.io/ngInfiniteScroll/)
 - Grid: [ngGrid](http://angular-ui.github.io/ng-grid/)
+- Hotkeys [Angular Hotkeys](https://github.com/chieffancypants/angular-hotkeys)
